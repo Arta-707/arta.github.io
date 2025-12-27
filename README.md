@@ -1,46 +1,73 @@
+# Arta Hashemi
 
-- `index.html`: Main webpage containing resume content
-- `README.md`: Project description and documentation
+**MD Candidate | Learning Computational Neuroscience & Python**
+
+Medical student at the University of Rome Tor Vergata with an interest in neuroscience,
+neural data analysis, and predictive timing. Currently learning Python and building
+foundational projects in time-series analysis and biological signals.
+
+🌐 Website: https://arta.github.io  
+📧 Email: artahashemi003@gmail.com  
+🐙 GitHub: https://github.com/arta-707 
+🔗 LinkedIn: https://linkedin.com/in/arta-hashemi
+
 
 ---
 
-## Features
+## Education
 
-- Single-page layout
-- Clear typography and spacing
-- Sections for profile, projects, skills, and contact
-- Fully static (no backend, no JavaScript)
+**MD Candidate – Medicine & Surgery**  
+University of Rome Tor Vergata, Italy  
+2025 – Present
+
+**Fundamental Neuroscience – Certificate**  
+HarvardX
+2023
+
+**Clinical Neuroscience – Certificate**  
+University of Tehran
+2023
+
+**Python in Neuroscience – Certificate**  
+University of Tehran
+2023
 
 ---
 
-## Deployment
+## Projects
 
-The website is deployed using **GitHub Pages**.
+**Neural Timing Analysis**  
+Beginner project analyzing behavioral timing and synchronization data using Python.
+Focus on understanding timing errors, variability, and basic signal structure.
 
-To deploy:
-1. Create a public repository named `YOUR-USERNAME.github.io`
-2. Upload `index.html` to the root directory
-3. Enable GitHub Pages from repository settings
-4. Visit `https://YOUR-USERNAME.github.io`
+**Physiological Signals Exploration**  
+Learning project using public datasets to explore biological time-series data
+and develop intuition for noise, trends, and variability.
+
+---
+
+## Skills
+
+- Python (learning)
+- Basic time-series analysis
+- Neuroscience fundamentals
+- Scientific reasoning
+- Data exploration and visualization (basic)
+
+---
+
+## Interests
+
+- Computational neuroscience
+- Neural prediction
+- Brain–behavior relationships
+- Music and rhythm perception (and music in general)
+- Data-driven approaches in medicine
+- Biotechnology/ Medical Technolgy
 
 ---
 
 ## Status
 
-🟢 Beginner project — actively learning and improving  
-Future updates may include:
-- Improved styling
-- Project links
-- Downloadable CV
-- Better layout structure
-
----
-
-## Author
-
-**Arta Hashemi**  
-MD Candidate | Learning Python & Computational Neuroscience  
-
-Email: artahashemi003@gmail.com  
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
-GitHub: https://github.com/YOUR-USERNAME
+🟢 Early-stage / learning  
+This profile and repository will evolve as new projects and skills are developed.
