@@ -9,6 +9,7 @@ foundational projects in time-series analysis and biological signals.
 🌐 Website: https://arta.github.io  
 📧 Email: artahashemi003@gmail.com  
 🐙 GitHub: https://github.com/arta-707 
+
 🔗 LinkedIn: https://linkedin.com/in/arta-hashemi
 
 
