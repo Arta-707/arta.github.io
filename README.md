@@ -7,7 +7,7 @@ neural data analysis, and predictive timing. Currently learning Python and build
 foundational projects in time-series analysis and biological signals.
 
 🌐 Website: https://arta.github.io  
-📧 Email: artahashemi003@gmail.com  
+📧 Email:  
 🐱 GitHub: https://github.com/arta-707 
 🔗 LinkedIn: https://linkedin.com/in/arta-hashemi
 
